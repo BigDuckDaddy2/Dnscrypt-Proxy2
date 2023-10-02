@@ -1,4 +1,4 @@
-# Dnscrypt-Proxy2-Anon-2.1.4/2.1.5
+# Dnscrypt-Proxy2-2.1.4/2.1.5
 
 Intended system is Linux or DD-WRT running Entware.
 Makes all the needed certs during the initial Start.
